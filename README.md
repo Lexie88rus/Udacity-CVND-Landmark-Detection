@@ -8,3 +8,5 @@ SLAM gives a way to track the location of a robot in the world in real-time and 
 This is an active area of research in the fields of robotics and autonomous systems.
 
 ## Example
+The image demonstrate 2D world, robot pose and landmarks:
+![image](https://github.com/Lexie88rus/Udacity-CVND-Landmark-Detection/raw/master/example.png)
